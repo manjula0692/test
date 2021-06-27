@@ -1,0 +1,20 @@
+.container{
+    padding:50px;
+    margin:50px;
+    display:flex;
+    border:2px solid black;
+    flex-direction: column;
+}
+form{
+    display:flex;
+    flex-direction: column;
+    margin:60px;
+    gap: 4px;
+}
+h1{
+    text-align: center;
+}
+.result{
+    
+    border:2px solid black;
+}
